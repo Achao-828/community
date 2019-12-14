@@ -13,11 +13,7 @@ import org.springframework.web.bind.annotation.RequestParam;
  * @Date: 2019/12/13 20:51
  */
 @Controller
-public class HelloController {
-
-    @GetMapping("/hello")
-    public String hello(@RequestParam(name = "name") String name, Model model){
-        model.addAttribute("name",name);
-        return "hello";
-    }
+public class IndexController {
+    @GetMapping("/")
+    public String index() {return "index"; }
 }

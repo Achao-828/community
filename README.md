@@ -9,6 +9,7 @@
 [Github Oauth 注册](https://developer.github.com/apps/building-oauth-apps/authorizing-oauth-apps/)  
 [Mybatis-spring-boot](http://mybatis.org/spring-boot-starter/mybatis-spring-boot-autoconfigure/)  
 [Spring-Boot](https://docs.spring.io/spring-boot/docs/2.0.0.RC1/reference/htmlsingle/#boot-features-embedded-database-support)  
+[菜鸟教程](https://www.runoob.com/mysql/mysql-tutorial.html)
 
 ## 工具
 [Git](https://git-scm.com/download)  

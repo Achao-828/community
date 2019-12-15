@@ -14,6 +14,7 @@
 ## 工具
 [Git](https://git-scm.com/download)  
 [Bootstrap](https://v3.boo\tcss.com/components/)  
+[Flyway](https://flywaydb.org/getstarted/firststeps/maven)
 
 ##脚本
 ```sql
@@ -27,3 +28,11 @@ CREATE TABLE USER
     GMT_MODIFIED BIGINT
 );
 ```
+```bash
+mvn flyway:migrate
+```
+
+##测试
+* 问题标题：请用精简的语言描述您发布的问题，不能超过25字；
+* 问题补充：详细补充您的问题内容，并确保问题描述清晰直观，并提供一些相关资料；
+* 选择标签：选择一个或者多个合适的标签，用逗号隔开，每个标签不超过10个字；
